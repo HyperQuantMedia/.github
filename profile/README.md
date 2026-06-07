@@ -55,7 +55,7 @@ A quick community side-tool for **Oasis island-stitching** in the game [Kingshot
 </tr>
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Cairn/CairnLogo_256x256.png" width="76"><br><sub><b>Cairn</b></sub></td>
-<td><i>Stones in the dark — they keep what we can't yet say.</i></td>
+<td><i>Stones set toward what we can't see yet.</i></td>
 </tr>
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/DocuTale/Docutale_256x256.png" width="76"><br><sub><b>DocuTale</b></sub></td>
@@ -119,10 +119,10 @@ A quick community side-tool for **Oasis island-stitching** in the game [Kingshot
   <img src="https://img.shields.io/badge/NVIDIA_Nsight-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Nsight">
   <img src="https://img.shields.io/badge/PIX-5C2D91?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPk1pY3Jvc29mdDwvdGl0bGU%2BPHBhdGggZD0iTTAgMHYxMS40MDhoMTEuNDA4VjB6bTEyLjU5NCAwdjExLjQwOEgyNFYwek0wIDEyLjU5NFYyNGgxMS40MDhWMTIuNTk0em0xMi41OTQgMFYyNEgyNFYxMi41OTR6Ii8%2BPC9zdmc%2B&logoColor=white" alt="PIX">
   <img src="https://img.shields.io/badge/Intel_VTune-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Intel VTune">
-  <img src="https://img.shields.io/badge/Tracy-1A1A1A?style=flat-square&logoColor=white" alt="Tracy Profiler">
+  <img src="https://img.shields.io/badge/Tracy-1A1A1A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHg9IjIiIHk9IjQiIHdpZHRoPSIyMCIgaGVpZ2h0PSIzIiByeD0iMSIvPjxyZWN0IHg9IjIiIHk9IjkuNSIgd2lkdGg9IjExIiBoZWlnaHQ9IjMiIHJ4PSIxIi8%2BPHJlY3QgeD0iMTQiIHk9IjkuNSIgd2lkdGg9IjgiIGhlaWdodD0iMyIgcng9IjEiLz48cmVjdCB4PSIyIiB5PSIxNSIgd2lkdGg9IjciIGhlaWdodD0iMyIgcng9IjEiLz48cmVjdCB4PSIxMCIgeT0iMTUiIHdpZHRoPSIxMiIgaGVpZ2h0PSIzIiByeD0iMSIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Tracy Profiler">
   <img src="https://img.shields.io/badge/Snapdragon_Profiler-3253DC?style=flat-square&logo=qualcomm&logoColor=white" alt="Qualcomm Snapdragon Profiler">
   <img src="https://img.shields.io/badge/Arm_Profiler-0091BD?style=flat-square&logo=arm&logoColor=white" alt="Arm Profiler">
-  <img src="https://img.shields.io/badge/RenderDoc-2D2D2D?style=flat-square&logoColor=white" alt="RenderDoc">
+  <img src="https://img.shields.io/badge/RenderDoc-2D2D2D?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0zIDNoN3YyLjVINS41VjEwSDN6TTIxIDN2N2gtMi41VjUuNUgxNFYzek0zIDIxdi03aDIuNXY0LjVIMTBWMjF6TTIxIDIxaC03di0yLjVoNC41VjE0SDIxeiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjIuNiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="RenderDoc">
 </p>
 
 **Tools**
@@ -132,9 +132,9 @@ A quick community side-tool for **Oasis island-stitching** in the game [Kingshot
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello">
   <img src="https://img.shields.io/badge/GitHub_Projects-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Projects">
-  <img src="https://img.shields.io/badge/Hansoft-1E88E5?style=flat-square&logoColor=white" alt="Hansoft">
+  <img src="https://img.shields.io/badge/Hansoft-1E88E5?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHg9IjIiIHk9IjQiIHdpZHRoPSI1IiBoZWlnaHQ9IjE2IiByeD0iMSIvPjxyZWN0IHg9IjkuNSIgeT0iNCIgd2lkdGg9IjUiIGhlaWdodD0iMTAiIHJ4PSIxIi8%2BPHJlY3QgeD0iMTciIHk9IjQiIHdpZHRoPSI1IiBoZWlnaHQ9IjEzIiByeD0iMSIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Hansoft">
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPk1pY3Jvc29mdCBPZmZpY2U8L3RpdGxlPjxwYXRoIGQ9Ik0yMS41MyA0LjMwNnYxNS4zNjNxMCAuODA3LS40NzIgMS40MzMtLjQ3Mi42MjctMS4yNTMuODVsLTYuODg4IDEuOTc0cS0uMTM2LjAzNy0uMjkuMDU1LS4xNTYuMDE5LS4yOTMuMDE5LS4zOTYgMC0uNzItLjEwNS0uMzIxLS4xMDYtLjY1Ni0uMjkybC00LjUwNS0yLjU0NHEtLjI0OC0uMTM3LS4zOTEtLjM2Ni0uMTQzLS4yMy0uMTQzLS41MTUgMC0uNDM0LjMwNC0uNzM4LjMwNC0uMzA1LjczOS0uMzA1aDUuODMxVjQuOTY0bC00LjM4IDEuNTYzcS0uNTMzLjE4Ny0uODU2LjY1OC0uMzIyLjQ3Mi0uMzIyIDEuMDN2OC4wNzhxMCAuNDk2LS4yNDguOTEyLS4yNS40MTYtLjY4My42NTFsLTIuMDcyIDEuMTNxLS4yODYuMTQ4LS41NzEuMTQ4LS40OTcgMC0uODQ0LS4zNDctLjM0OC0uMzQ3LS4zNDgtLjg0NFY2LjU2M3EwLS42Mi4zMy0xLjE5LjMyOC0uNTcxLjg3NC0uODgxTDExLjA3LjI4NXEuMjQ4LS4xMzYuNTM0LS4yMS4yODUtLjA3NS41Ny0uMDc1LjIxMSAwIC4zOC4wMzEuMTY2LjAzMS4zNjQuMDkzbDYuODg4IDEuODk5cS4zODQuMTEuNy4zMjkuMzE3LjIxNy41NDcuNTIuMjMuMzA1LjM1My42Ny4xMjUuMzY3LjEyNS43NjR6bS0xLjU4OCAxNS4zNjNWNC4zMDZxMC0uMjczLS4xNi0uNDc4LS4xNjMtLjIwNC0uNDIzLS4yOGwtMy4zODgtLjkzcS0uMzk3LS4xMTEtLjc5NC0uMjMtLjM5Ny0uMTE3LS43OTQtLjIxNnYxOS42OGw0Ljk3Ni0xLjQyN3EuMjYtLjA3NC40MjItLjI4LjE2MS0uMjA0LjE2MS0uNDc3eiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Microsoft Office">
-  <img src="https://img.shields.io/badge/FMOD-000000?style=flat-square&logoColor=white" alt="FMOD">
+  <img src="https://img.shields.io/badge/FMOD-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjciIGN5PSIxOCIgcj0iMyIvPjxjaXJjbGUgY3g9IjE3IiBjeT0iMTYiIHI9IjMiLz48cGF0aCBkPSJNOSAxOFY2bDExLTJ2MTJoLTJWNi40TDExIDcuOFYxOHoiLz48L3N2Zz4%3D&logoColor=white" alt="FMOD">
 </p>
 
 **AI**
@@ -151,7 +151,7 @@ A quick community side-tool for **Oasis island-stitching** in the game [Kingshot
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white" alt="Perforce">
-  <img src="https://img.shields.io/badge/Divergence-1F6FEB?style=flat-square&logoColor=white" alt="Divergence (bridged Git ↔ Perforce)">
+  <img src="https://img.shields.io/badge/Divergence-1F6FEB?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iNSIgY3k9IjEyIiByPSIyLjYiIGZpbGw9IndoaXRlIi8%2BPGNpcmNsZSBjeD0iMTkiIGN5PSI1IiByPSIyLjYiIGZpbGw9IndoaXRlIi8%2BPGNpcmNsZSBjeD0iMTkiIGN5PSIxOSIgcj0iMi42IiBmaWxsPSJ3aGl0ZSIvPjxwYXRoIGQ9Ik03IDEyaDJNOSAxMmMxLTMgNS01IDgtNk05IDEyYzEgMyA1IDUgOCA2IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIGZpbGw9Im5vbmUiLz48L3N2Zz4%3D&logoColor=white" alt="Divergence (bridged Git ↔ Perforce)">
 </p>
 
 **CI/CD**
