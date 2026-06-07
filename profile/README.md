@@ -34,7 +34,7 @@ We run as an **Adaptive Studio**: leadership is earned, not owned; quality is th
 ## 🚀 Selected public work
 
 ### [Kingshot-Island-Architect](https://github.com/HyperQuantMedia/Kingshot-Island-Architect)
-A quick community side-tool for **Oasis island-stitching** in the game *Kingshot*.
+A quick community side-tool for **Oasis island-stitching** in the game [Kingshot](https://www.centurygames.com/games/kingshot/).
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 
@@ -50,20 +50,20 @@ A quick community side-tool for **Oasis island-stitching** in the game *Kingshot
 
 <table>
 <tr>
-<td align="center" width="118"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Cairn/CairnLogo_256x256.png" width="76"><br><sub><b>Cairn</b></sub></td>
-<td><i>Stones stacked in the dark, marking a way only we can read.</i></td>
-</tr>
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Polaris/HQM-Polaris-final_256x256.png" width="76"><br><sub><b>Polaris</b></sub></td>
+<td align="center" width="118"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Polaris/HQM-Polaris-final_256x256.png" width="76"><br><sub><b>Polaris</b></sub></td>
 <td><i>A fixed light in a moving sky. We steer by it; we don't explain it.</i></td>
 </tr>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Quartermaster/HQM-Quartermaster-Final_256x256.png" width="76"><br><sub><b>Quartermaster</b></sub></td>
-<td><i>Something keeps the count in the dark. Ask no more.</i></td>
+<td align="center"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Cairn/CairnLogo_256x256.png" width="76"><br><sub><b>Cairn</b></sub></td>
+<td><i>Stones in the dark — they keep what we can't yet say.</i></td>
 </tr>
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/DocuTale/Docutale_256x256.png" width="76"><br><sub><b>DocuTale</b></sub></td>
 <td><i>It lifts the fog — over what, we won't yet say.</i></td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Quartermaster/HQM-Quartermaster-Final_256x256.png" width="76"><br><sub><b>Quartermaster</b></sub></td>
+<td><i>Something keeps the count in the dark. Ask no more.</i></td>
 </tr>
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/VeinsOfNexus/VeinsOfNexus_Final_256x256.png" width="76"><br><sub><b>Veins of Nexus</b></sub></td>
