@@ -40,6 +40,8 @@ Public project from the studio. &nbsp; `JavaScript`
 
 ## 🌌 Under the Celestial Forge
 
+🌌 *Somewhere off the charted trail, we stack **Cairns** — cooking cosmic, celestial stars from stone, signal, and patience. The constellation isn't lit yet. Watch the sky.*
+
 *The studio's private constellations. Most of what we forge stays dark a while — a glimpse of the light, never the map.*
 
 <table>
@@ -152,12 +154,6 @@ Public project from the studio. &nbsp; `JavaScript`
 </p>
 
 ---
-
-<div align="center">
-
-🌌 *Somewhere off the charted trail, we stack **Cairns** — cooking cosmic, celestial stars from stone, signal, and patience. The constellation isn't lit yet. Watch the sky.*
-
-</div>
 
 ## 🔒 Access & confidentiality
 
