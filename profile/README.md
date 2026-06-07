@@ -38,6 +38,29 @@ Public project from the studio. &nbsp; `JavaScript`
 
 > Most of our product and client work is **private** (see *Access & confidentiality* below).
 
+## 🌌 Under the Celestial Forge
+
+*The studio's private constellations. Most of what we forge stays dark a while — a glimpse of the light, never the map.*
+
+<table>
+<tr>
+<td align="center" width="118"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Polaris/HQM-Polaris-final_256x256.png" width="76"><br><sub><b>Polaris</b></sub></td>
+<td><i>A fixed light in a moving sky. We steer by it; we don't explain it.</i></td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Quartermaster/HQM-Quartermaster-Final_256x256.png" width="76"><br><sub><b>Quartermaster</b></sub></td>
+<td><i>Something keeps the count in the dark. Ask no more.</i></td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/DocuTale/Docutale_256x256.png" width="76"><br><sub><b>DocuTale</b></sub></td>
+<td><i>It lifts the fog — over what, we won't yet say.</i></td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/VeinsOfNexus/VeinsOfNexus_Final_256x256.png" width="76"><br><sub><b>Veins of Nexus</b></sub></td>
+<td><i>Beneath the stone, a red heart beats. We have not woken it yet.</i></td>
+</tr>
+</table>
+
 ## 🧱 Tech
 
 **Engines**
