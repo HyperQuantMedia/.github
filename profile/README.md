@@ -62,6 +62,7 @@ Public project from the studio. &nbsp; `JavaScript`
   <img src="https://img.shields.io/badge/DirectX_12-107C10?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPk1pY3Jvc29mdDwvdGl0bGU%2BPHBhdGggZD0iTTAgMHYxMS40MDhoMTEuNDA4VjB6bTEyLjU5NCAwdjExLjQwOEgyNFYwek0wIDEyLjU5NFYyNGgxMS40MDhWMTIuNTk0em0xMi41OTQgMFYyNEgyNFYxMi41OTR6Ii8%2BPC9zdmc%2B&logoColor=white" alt="DirectX 12">
   <img src="https://img.shields.io/badge/DirectX_11-107C10?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPk1pY3Jvc29mdDwvdGl0bGU%2BPHBhdGggZD0iTTAgMHYxMS40MDhoMTEuNDA4VjB6bTEyLjU5NCAwdjExLjQwOEgyNFYwek0wIDEyLjU5NFYyNGgxMS40MDhWMTIuNTk0em0xMi41OTQgMFYyNEgyNFYxMi41OTR6Ii8%2BPC9zdmc%2B&logoColor=white" alt="DirectX 11">
   <img src="https://img.shields.io/badge/HLSL-5C2D91?style=flat-square&logoColor=white" alt="HLSL">
+  <img src="https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logoColor=white" alt="GLSL">
   <img src="https://img.shields.io/badge/Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white" alt="Vulkan">
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="OpenGL">
 </p>
@@ -76,6 +77,8 @@ Public project from the studio. &nbsp; `JavaScript`
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPlBvd2VyU2hlbGw8L3RpdGxlPjxwYXRoIGQ9Ik0yMy4xODEgMi45NzRjLjU2OCAwIC45MjMuNDYzLjc5MiAxLjAzNWwtMy42NTkgMTUuOTgyYy0uMTMuNTcyLS42OTcgMS4wMzUtMS4yNjUgMS4wMzVILjgxOWMtLjU2OCAwLS45MjMtLjQ2My0uNzkyLTEuMDM1TDMuNjg2IDQuMDA5Yy4xMy0uNTcyLjY5Ny0xLjAzNSAxLjI2NS0xLjAzNXptLTguMzc1IDkuMzQ2Yy4yNTEtLjM5NC4yMjctLjkwNS0uMDktMS4yNDNMOS4xMjIgNS4xMjVjLS4zOC0uNDA0LTEuMDM3LS40MDctMS40NjYtLjAwMy0uNDI5LjQwMi0uNDY4IDEuMDU2LS4wODggMS40Nmw0LjY2MiA0Ljk2di4xMWwtNy40MiA1LjM3NGMtLjQ1LjMyNy0uNTMzLjk3Ny0uMTg3IDEuNDUzLjM0Ni40NzYuOTkxLjU5NyAxLjQ0LjI3bDguMjI5LTUuOTFjLjI4LS4xOTYuNDM4LS4zNjUuNTE0LS41MnptLTIuNzk2IDQuMzk5YS45MjguOTI4IDAgMDAtLjkzNC45MjNjMCAuNTEuNDE4LjkyMy45MzQuOTIzaDQuNDMzYS45MjguOTI4IDAgMDAuOTM0LS45MjMuOTI4LjkyOCAwIDAwLS45MzQtLjkyM3oiLz48L3N2Zz4%3D&logoColor=white" alt="PowerShell">
   <img src="https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white" alt="XML">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js">
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON">
 </p>
 
 **Profiling & GPU tooling**
