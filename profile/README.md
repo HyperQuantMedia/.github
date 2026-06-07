@@ -34,19 +34,27 @@ We run as an **Adaptive Studio**: leadership is earned, not owned; quality is th
 ## 🚀 Selected public work
 
 ### [Kingshot-Island-Architect](https://github.com/HyperQuantMedia/Kingshot-Island-Architect)
-Public project from the studio. &nbsp; `JavaScript`
+A quick community side-tool for **Oasis island-stitching** in the game *Kingshot*.
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 
 > Most of our product and client work is **private** (see *Access & confidentiality* below).
 
 ## 🌌 Under the Celestial Forge
 
-🌌 *Somewhere off the charted trail, we stack **Cairns** — cooking cosmic, celestial stars from stone, signal, and patience. The constellation isn't lit yet. Watch the sky.*
+🌌 *Somewhere off the charted trail, we stack **Cairns** — cooking cosmic, celestial stars from stone, signal, and patience. The constellation isn't lit yet.*
 
 *The studio's private constellations. Most of what we forge stays dark a while — a glimpse of the light, never the map.*
 
+<div align="center"><b><i>Watch the sky.</i></b></div>
+
 <table>
 <tr>
-<td align="center" width="118"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Polaris/HQM-Polaris-final_256x256.png" width="76"><br><sub><b>Polaris</b></sub></td>
+<td align="center" width="118"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Cairn/CairnLogo_256x256.png" width="76"><br><sub><b>Cairn</b></sub></td>
+<td><i>Stones stacked in the dark, marking a way only we can read.</i></td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Polaris/HQM-Polaris-final_256x256.png" width="76"><br><sub><b>Polaris</b></sub></td>
 <td><i>A fixed light in a moving sky. We steer by it; we don't explain it.</i></td>
 </tr>
 <tr>
