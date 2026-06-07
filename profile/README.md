@@ -105,13 +105,17 @@ A quick community side-tool for **Oasis island-stitching** in the game [Kingshot
   <img src="https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++20">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMTI4IDEyOCI%2BPHBhdGggZD0iTTExNy41IDMzLjVsLjMtLjJjLS42LTEuMS0xLjUtMi4xLTIuNC0yLjZMNjcuMSAyLjljLS44LS41LTEuOS0uNy0zLjEtLjctMS4yIDAtMi4zLjMtMy4xLjdsLTQ4IDI3LjljLTEuNyAxLTIuOSAzLjUtMi45IDUuNHY1NS43YzAgMS4xLjIgMi4zLjkgMy40bC0uMi4xYy41LjggMS4yIDEuNSAxLjkgMS45bDQ4LjIgMjcuOWMuOC41IDEuOS43IDMuMS43IDEuMiAwIDIuMy0uMyAzLjEtLjdsNDgtMjcuOWMxLjctMSAyLjktMy41IDIuOS01LjRWMzYuMWMuMS0uOCAwLTEuNy0uNC0yLjZ6bS01My41IDcwYy0yMS44IDAtMzkuNS0xNy43LTM5LjUtMzkuNVM0Mi4yIDI0LjUgNjQgMjQuNWMxNC43IDAgMjcuNSA4LjEgMzQuMyAyMGwtMTMgNy41QzgxLjEgNDQuNSA3My4xIDM5LjUgNjQgMzkuNWMtMTMuNSAwLTI0LjUgMTEtMjQuNSAyNC41czExIDI0LjUgMjQuNSAyNC41YzkuMSAwIDE3LjEtNSAyMS4zLTEyLjRsMTIuOSA3LjZjLTYuOCAxMS44LTE5LjYgMTkuOC0zNC4yIDE5Ljh6TTExNSA2MmgtMy4ybC0uOSA0aDQuMXY1aC01bC0xLjIgNmgtNC45bDEuMi02aC0zLjhsLTEuMiA2aC00LjhsMS4yLTZIOTR2LTVoMy41bC45LTRIOTR2LTVoNS4zbDEuMi02aDQuOWwtMS4yIDZoMy44bDEuMi02aDQuOGwtMS4yIDZoMi4ydjV6bS0xMi43IDRoMy44bC45LTRoLTMuOHoiIGZpbGw9IndoaXRlIi8%2BPC9zdmc%2B&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Node.js_22-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js 22">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPlBvd2VyU2hlbGw8L3RpdGxlPjxwYXRoIGQ9Ik0yMy4xODEgMi45NzRjLjU2OCAwIC45MjMuNDYzLjc5MiAxLjAzNWwtMy42NTkgMTUuOTgyYy0uMTMuNTcyLS42OTcgMS4wMzUtMS4yNjUgMS4wMzVILjgxOWMtLjU2OCAwLS45MjMtLjQ2My0uNzkyLTEuMDM1TDMuNjg2IDQuMDA5Yy4xMy0uNTcyLjY5Ny0xLjAzNSAxLjI2NS0xLjAzNXptLTguMzc1IDkuMzQ2Yy4yNTEtLjM5NC4yMjctLjkwNS0uMDktMS4yNDNMOS4xMjIgNS4xMjVjLS4zOC0uNDA0LTEuMDM3LS40MDctMS40NjYtLjAwMy0uNDI5LjQwMi0uNDY4IDEuMDU2LS4wODggMS40Nmw0LjY2MiA0Ljk2di4xMWwtNy40MiA1LjM3NGMtLjQ1LjMyNy0uNTMzLjk3Ny0uMTg3IDEuNDUzLjM0Ni40NzYuOTkxLjU5NyAxLjQ0LjI3bDguMjI5LTUuOTFjLjI4LS4xOTYuNDM4LS4zNjUuNTE0LS41MnptLTIuNzk2IDQuMzk5YS45MjguOTI4IDAgMDAtLjkzNC45MjNjMCAuNTEuNDE4LjkyMy45MzQuOTIzaDQuNDMzYS45MjguOTI4IDAgMDAuOTM0LS45MjMuOTI4LjkyOCAwIDAwLS45MzQtLjkyM3oiLz48L3N2Zz4%3D&logoColor=white" alt="PowerShell">
   <img src="https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white" alt="XML">
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js">
   <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/Node.js_22-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js 22">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js">
 </p>
 
 **Profiling & GPU tooling**
