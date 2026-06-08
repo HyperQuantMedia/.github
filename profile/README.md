@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Company/logo-mark-transparent.png" alt="HyperQuant Media" width="130" />
+<img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Company/Github/banner-github-1280x640-Final.jpg" alt="HyperQuant Media" width="900" />
 
 # HyperQuant Media LLP
 
@@ -172,6 +172,11 @@ A quick community side-tool for **Oasis island-stitching** in the game [Kingshot
 Most HyperQuant Media repositories are **private**. Access is granted **under NDA**, with
 IP and copyright assignment; trademarks pending. **Accepting access to any HQM repository
 automatically binds you to our repository-access NDA.**
+
+**Brand assets** — all logos, marks, banners, wordmarks, and icons are the exclusive
+property of HyperQuant Media LLP. They are **not meant for replication** and may not be
+copied, reproduced, modified, redistributed, or reused in any form without prior written
+permission. **Copyright and trademarks reserved.**
 
 To request access or a copy of the agreement: **[bizdev@hyperquantmedia.com](mailto:bizdev@hyperquantmedia.com)**.
 
