@@ -1,0 +1,41 @@
+# Copyright (C) 2026 HyperQuant Media L.L.P. All rights reserved. Licensed under GNU GPL v3.0.
+# Orrery notify — drop this into EACH product repo at .github/workflows/orrery-notify.yml
+# (deploy/scripts/deploy-orrery-notify.sh does this for all of them).
+# On issue / PR close it pings the central .github repo, which re-runs the
+# Orrery health rollup. Needs an org Actions secret ORRERY_PAT with rights to
+# POST repository_dispatch on HyperQuantMedia/.github.
+# NOTE: GitHub does not emit an Actions event when a Project v2 card is merely
+# dragged between columns, so pure board moves are caught by the nightly cron,
+# not this hook.
+name: Orrery notify
+
+on:
+  issues:
+    types: [opened, closed, reopened, deleted, transferred]
+  pull_request:
+    types: [closed]
+
+concurrency:
+  group: orrery-notify
+  cancel-in-progress: true
+
+permissions: {}
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Dispatch orrery-sync
+        env:
+          PAT: ${{ secrets.ORRERY_PAT }}
+        run: |
+          if [ -z "$PAT" ]; then
+            echo "::warning::ORRERY_PAT not set; skipping Orrery sync."
+            exit 0
+          fi
+          curl -sf -X POST \
+            -H "Authorization: Bearer $PAT" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/HyperQuantMedia/.github/dispatches \
+            -d "{\"event_type\":\"orrery-sync\",\"client_payload\":{\"repo\":\"${GITHUB_REPOSITORY}\"}}"

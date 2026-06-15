@@ -1,0 +1,39 @@
+# Copyright (C) 2026 HyperQuant Media L.L.P. All rights reserved. Licensed under GNU GPL v3.0.
+# Orrery — Ecosystem Roadmap health rollup.
+# Recomputes per-project health (issues + board status) onto Orrery board #13.
+# Triggered event-driven by each repo (repository_dispatch: orrery-sync),
+# nightly as a safety net (board card-moves emit no Actions event), and manually.
+# Hosted in the PUBLIC .github repo -> free Actions minutes (off the 2000-min private cap).
+name: Orrery rollup
+
+on:
+  repository_dispatch:
+    types: [orrery-sync]
+  schedule:
+    - cron: '17 6 * * *'   # 06:17 UTC daily safety net (catches board-only moves)
+  workflow_dispatch:
+
+concurrency:
+  group: orrery-rollup
+  cancel-in-progress: false
+
+permissions: {}   # no GITHUB_TOKEN perms needed; ORRERY_PAT does all the work
+
+jobs:
+  rollup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Run rollup
+        env:
+          GH_TOKEN: ${{ secrets.ORRERY_PAT }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::error::ORRERY_PAT secret is missing. See docs/ORRERY-AUTOMATION.md."
+            exit 1
+          fi
+          node scripts/orrery-rollup.mjs
