@@ -23,7 +23,7 @@
 
 A small, senior studio out of India building **games, developer tools, and AI-native development systems**. We ship our own products and take on engineering-services work — engine-level, tooling, and AI-agent infrastructure.
 
-We run as an **Adaptive Studio**: leadership is earned, not owned; quality is the only motor.
+We run as an **Adaptive Studio** — leadership is not owned but kindled, the way dark sky earns a star; quality is the only gravity, and we all fall toward it.
 
 ## 🛠️ What we build
 
@@ -38,7 +38,10 @@ A quick community side-tool for **Oasis island-stitching** in the game [Kingshot
 
 > 🌐 **Live access:** [hyperquantmedia.github.io/Kingshot-Island-Architect](https://hyperquantmedia.github.io/Kingshot-Island-Architect/) — runs right in your browser, no install.
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Status-Live-4ade80?style=flat-square" alt="Status">
+&nbsp;<img src="https://img.shields.io/badge/Type-Web%20Tool-c084fc?style=flat-square" alt="Type">
+&nbsp;<img src="https://img.shields.io/badge/Platform-Browser-94a3b8?style=flat-square" alt="Platform">
+&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 
 > Most of our product and client work is **private** (see *Access & confidentiality* below).
 
@@ -53,23 +56,39 @@ A quick community side-tool for **Oasis island-stitching** in the game [Kingshot
 <table>
 <tr>
 <td align="center" width="118"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Polaris/HQM-Polaris-final_256x256.png" width="76"><br><sub><b>Polaris</b></sub></td>
-<td><i>A fixed light in a moving sky. We steer by it; we don't explain it.</i></td>
+<td><i>A fixed light in a moving sky. We steer by it; we don't explain it.</i><br><br>
+<img src="https://img.shields.io/badge/Status-In%20Development-4ade80?style=flat-square" alt="Status">
+&nbsp;<img src="https://img.shields.io/badge/Type-Plugin-c084fc?style=flat-square" alt="Type">
+&nbsp;<img src="https://img.shields.io/badge/Platform-Claude%20Code-94a3b8?style=flat-square" alt="Platform"></td>
 </tr>
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Cairn/CairnLogo_256x256.png" width="76"><br><sub><b>Cairn</b></sub></td>
-<td><i>Stones set toward what we can't see yet.</i></td>
+<td><i>Stones set toward what we can't see yet.</i><br><br>
+<img src="https://img.shields.io/badge/Status-In%20Development-4ade80?style=flat-square" alt="Status">
+&nbsp;<img src="https://img.shields.io/badge/Type-System%20%2B%20Plugin-c084fc?style=flat-square" alt="Type">
+&nbsp;<img src="https://img.shields.io/badge/Platform-Claude%20Code-94a3b8?style=flat-square" alt="Platform"></td>
 </tr>
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/DocuTale/Docutale_256x256.png" width="76"><br><sub><b>DocuTale</b></sub></td>
-<td><i>It lifts the fog — over what, we won't yet say.</i></td>
+<td><i>It lifts the fog — over what, we won't yet say.</i><br><br>
+<img src="https://img.shields.io/badge/Status-In%20Development-4ade80?style=flat-square" alt="Status">
+&nbsp;<img src="https://img.shields.io/badge/Type-Plugin-c084fc?style=flat-square" alt="Type">
+&nbsp;<img src="https://img.shields.io/badge/Platform-Claude%20Code-94a3b8?style=flat-square" alt="Platform"></td>
 </tr>
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Quartermaster/HQM-Quartermaster-Final_256x256.png" width="76"><br><sub><b>Quartermaster</b></sub></td>
-<td><i>Something keeps the count in the dark. Ask no more.</i></td>
+<td><i>Something keeps the count in the dark. Ask no more.</i><br><br>
+<img src="https://img.shields.io/badge/Status-In%20Development-4ade80?style=flat-square" alt="Status">
+&nbsp;<img src="https://img.shields.io/badge/Type-Tool%20Suite-c084fc?style=flat-square" alt="Type">
+&nbsp;<img src="https://img.shields.io/badge/Platform-Claude%20Code-94a3b8?style=flat-square" alt="Platform"></td>
 </tr>
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/VeinsOfNexus/VeinsOfNexus_Final_256x256.png" width="76"><br><sub><b>Veins of Nexus</b></sub></td>
-<td><i>Beneath the stone, a red heart beats. We have not woken it yet.</i></td>
+<td><i>Beneath the stone, a red heart beats. We have not woken it yet.</i><br><br>
+<img src="https://img.shields.io/badge/Status-In%20Development-4ade80?style=flat-square" alt="Status">
+&nbsp;<img src="https://img.shields.io/badge/Engine-Unity-c084fc?style=flat-square" alt="Engine">
+&nbsp;<img src="https://img.shields.io/badge/Genre-Roguelite-fbbf24?style=flat-square" alt="Genre">
+&nbsp;<img src="https://img.shields.io/badge/Procedural%20Generation-yes-94a3b8?style=flat-square" alt="PCG"></td>
 </tr>
 </table>
 
@@ -183,5 +202,7 @@ permission. **Copyright and trademarks reserved.**
 To request access or a copy of the agreement: **[bizdev@hyperquantmedia.com](mailto:bizdev@hyperquantmedia.com)**.
 
 ---
+
+<div align="center"><b><i>Small Studio. Adaptive Philosophy. Ambitious Games and Tools.</i></b></div>
 
 <div align="center"><sub>© 2026 HyperQuant Media LLP · India · All rights reserved.</sub></div>
