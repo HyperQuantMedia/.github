@@ -55,35 +55,35 @@ A quick community side-tool for **Oasis island-stitching** in the game [Kingshot
 
 <table>
 <tr>
-<td align="center" width="118"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Polaris/HQM-Polaris-final_256x256.png" width="76"><br><sub><b>Polaris</b></sub></td>
+<td align="center" width="118"><a href="https://github.com/HyperQuantMedia/HQM-Polaris"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Polaris/HQM-Polaris-final_256x256.png" width="76"></a><br><sub><b>Polaris</b></sub></td>
 <td><i>A fixed light in a moving sky. We steer by it; we don't explain it.</i><br><br>
 <img src="https://img.shields.io/badge/Status-In%20Development-4ade80?style=flat-square" alt="Status">
 &nbsp;<img src="https://img.shields.io/badge/Type-Plugin-c084fc?style=flat-square" alt="Type">
 &nbsp;<img src="https://img.shields.io/badge/Platform-Claude%20Code-94a3b8?style=flat-square" alt="Platform"></td>
 </tr>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Cairn/CairnLogo_256x256.png" width="76"><br><sub><b>Cairn</b></sub></td>
+<td align="center"><a href="https://github.com/HyperQuantMedia/ClaudeCairn"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Cairn/CairnLogo_256x256.png" width="76"></a><br><sub><b>Cairn</b></sub></td>
 <td><i>Stones set toward what we can't see yet.</i><br><br>
 <img src="https://img.shields.io/badge/Status-In%20Development-4ade80?style=flat-square" alt="Status">
 &nbsp;<img src="https://img.shields.io/badge/Type-System%20%2B%20Plugin-c084fc?style=flat-square" alt="Type">
 &nbsp;<img src="https://img.shields.io/badge/Platform-Claude%20Code-94a3b8?style=flat-square" alt="Platform"></td>
 </tr>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/DocuTale/Docutale_256x256.png" width="76"><br><sub><b>DocuTale</b></sub></td>
+<td align="center"><a href="https://github.com/HyperQuantMedia/ClaudeDocuTale"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/DocuTale/Docutale_256x256.png" width="76"></a><br><sub><b>DocuTale</b></sub></td>
 <td><i>It lifts the fog — over what, we won't yet say.</i><br><br>
 <img src="https://img.shields.io/badge/Status-In%20Development-4ade80?style=flat-square" alt="Status">
 &nbsp;<img src="https://img.shields.io/badge/Type-Plugin-c084fc?style=flat-square" alt="Type">
 &nbsp;<img src="https://img.shields.io/badge/Platform-Claude%20Code-94a3b8?style=flat-square" alt="Platform"></td>
 </tr>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Quartermaster/HQM-Quartermaster-Final_256x256.png" width="76"><br><sub><b>Quartermaster</b></sub></td>
+<td align="center"><a href="https://github.com/HyperQuantMedia/HQM-Quartermaster"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Quartermaster/HQM-Quartermaster-Final_256x256.png" width="76"></a><br><sub><b>Quartermaster</b></sub></td>
 <td><i>Something keeps the count in the dark. Ask no more.</i><br><br>
 <img src="https://img.shields.io/badge/Status-In%20Development-4ade80?style=flat-square" alt="Status">
 &nbsp;<img src="https://img.shields.io/badge/Type-Tool%20Suite-c084fc?style=flat-square" alt="Type">
 &nbsp;<img src="https://img.shields.io/badge/Platform-Claude%20Code-94a3b8?style=flat-square" alt="Platform"></td>
 </tr>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/VeinsOfNexus/VeinsOfNexus_Final_256x256.png" width="76"><br><sub><b>Veins of Nexus</b></sub></td>
+<td align="center"><a href="https://github.com/HyperQuantMedia/Veins-of-Nexus"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/VeinsOfNexus/VeinsOfNexus_Final_256x256.png" width="76"></a><br><sub><b>Veins of Nexus</b></sub></td>
 <td><i>Beneath the stone, a red heart beats. We have not woken it yet.</i><br><br>
 <img src="https://img.shields.io/badge/Status-In%20Development-4ade80?style=flat-square" alt="Status">
 &nbsp;<img src="https://img.shields.io/badge/Engine-Unity-c084fc?style=flat-square" alt="Engine">
