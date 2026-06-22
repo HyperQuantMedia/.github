@@ -25,6 +25,10 @@ A small, senior studio out of India building **games, developer tools, and AI-na
 
 We run as an **Adaptive Studio** — leadership is not owned but kindled, the way dark sky earns a star; quality is the only gravity, and we all fall toward it.
 
+### ⚛️ Quantum Entanglement — How the Sky Began
+
+> Quantum says two particles can touch once and stay bound forever — measure one and you've already measured the other, however far they drift apart. That's the trick of this studio: everything we make is entangled, each piece's state tied to the rest. It begins with a door cut into the dark — **Warpgate** — because before you can make anything, you first have to step inside where the work actually happens; nothing glows yet, but now there's a way in. The first light kindled isn't the brightest, it's the stillest: **Polaris**, a fixed star to steer by, the bearing everything else is measured against. With a north to hold, we start setting stones — **Cairn** — a trail toward a summit no one has seen, so everyone who comes after never has to cross the dark blind. But no long journey lives on direction alone, so two moons rise to orbit the trail: **Quartermaster**, who keeps count of all we carry, and **DocuTale**, who burns off the fog so the path can be read and retold. And all of it — the gate, the star, the trail, the moons — turns out to be scaffolding for the real reason the forge was ever lit: worlds that catch fire and start to spin on their own gravity. **Veins of Nexus**, a red heart beating under stone, and **NibbleBloom**, a warm place with a table set in every realm — the first planets to wake. The sky still isn't finished. More stars wait unlit out in the **Nebula**, and honestly we don't yet know which one catches next, or how the story ends. So — *watch the sky.* **To be continued.**
+
 ## 🛠️ What we build
 
 - **🎮 Games** — original titles and reusable game systems.
@@ -58,29 +62,25 @@ A quick community side-tool for **Oasis island-stitching** in the game [Kingshot
 <td align="center" width="118"><a href="https://github.com/HyperQuantMedia/HQM-Polaris"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Polaris/HQM-Polaris-final_256x256.png" width="76"></a><br><sub><b>Polaris</b></sub></td>
 <td><i>A fixed light in a moving sky. We steer by it; we don't explain it.</i><br><br>
 <img src="https://img.shields.io/badge/Status-In%20Development-4ade80?style=flat-square" alt="Status">
-&nbsp;<img src="https://img.shields.io/badge/Type-Plugin-c084fc?style=flat-square" alt="Type">
-&nbsp;<img src="https://img.shields.io/badge/Platform-Claude%20Code-94a3b8?style=flat-square" alt="Platform"></td>
+&nbsp;<img src="https://img.shields.io/badge/Type-Plugin-c084fc?style=flat-square" alt="Type"></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/HyperQuantMedia/ClaudeCairn"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Cairn/CairnLogo_256x256.png" width="76"></a><br><sub><b>Cairn</b></sub></td>
+<td align="center"><a href="https://github.com/HyperQuantMedia/ClaudeCairn"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Cairn/Cairn_256x256.png" width="76"></a><br><sub><b>Cairn</b></sub></td>
 <td><i>Stones set toward what we can't see yet.</i><br><br>
 <img src="https://img.shields.io/badge/Status-In%20Development-4ade80?style=flat-square" alt="Status">
-&nbsp;<img src="https://img.shields.io/badge/Type-System%20%2B%20Plugin-c084fc?style=flat-square" alt="Type">
-&nbsp;<img src="https://img.shields.io/badge/Platform-Claude%20Code-94a3b8?style=flat-square" alt="Platform"></td>
+&nbsp;<img src="https://img.shields.io/badge/Type-System%20%2B%20Plugin-c084fc?style=flat-square" alt="Type"></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/HyperQuantMedia/ClaudeDocuTale"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/DocuTale/Docutale_256x256.png" width="76"></a><br><sub><b>DocuTale</b></sub></td>
 <td><i>It lifts the fog — over what, we won't yet say.</i><br><br>
 <img src="https://img.shields.io/badge/Status-In%20Development-4ade80?style=flat-square" alt="Status">
-&nbsp;<img src="https://img.shields.io/badge/Type-Plugin-c084fc?style=flat-square" alt="Type">
-&nbsp;<img src="https://img.shields.io/badge/Platform-Claude%20Code-94a3b8?style=flat-square" alt="Platform"></td>
+&nbsp;<img src="https://img.shields.io/badge/Type-Plugin-c084fc?style=flat-square" alt="Type"></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/HyperQuantMedia/HQM-Quartermaster"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Quartermaster/HQM-Quartermaster-Final_256x256.png" width="76"></a><br><sub><b>Quartermaster</b></sub></td>
 <td><i>Something keeps the count in the dark. Ask no more.</i><br><br>
 <img src="https://img.shields.io/badge/Status-In%20Development-4ade80?style=flat-square" alt="Status">
-&nbsp;<img src="https://img.shields.io/badge/Type-Tool%20Suite-c084fc?style=flat-square" alt="Type">
-&nbsp;<img src="https://img.shields.io/badge/Platform-Claude%20Code-94a3b8?style=flat-square" alt="Platform"></td>
+&nbsp;<img src="https://img.shields.io/badge/Type-Tool%20Suite-c084fc?style=flat-square" alt="Type"></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/HyperQuantMedia/Veins-of-Nexus"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/VeinsOfNexus/VeinsOfNexus_Final_256x256.png" width="76"></a><br><sub><b>Veins of Nexus</b></sub></td>
@@ -89,6 +89,13 @@ A quick community side-tool for **Oasis island-stitching** in the game [Kingshot
 &nbsp;<img src="https://img.shields.io/badge/Engine-Unity-c084fc?style=flat-square" alt="Engine">
 &nbsp;<img src="https://img.shields.io/badge/Genre-Roguelite-fbbf24?style=flat-square" alt="Genre">
 &nbsp;<img src="https://img.shields.io/badge/Procedural%20Generation-yes-94a3b8?style=flat-square" alt="PCG"></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/HyperQuantMedia/NibbleBloom"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/NibbleBloom/NibbleBloom-Final_256x256.png" width="76"></a><br><sub><b>NibbleBloom</b></sub></td>
+<td><i>A table laid among the stars — the broth keeps warm, the guests not yet named.</i><br><br>
+<img src="https://img.shields.io/badge/Status-In%20Development-4ade80?style=flat-square" alt="Status">
+&nbsp;<img src="https://img.shields.io/badge/Engine-Unreal%20Engine%206-c084fc?style=flat-square" alt="Engine">
+&nbsp;<img src="https://img.shields.io/badge/Genre-Cozy%20RPG-fbbf24?style=flat-square" alt="Genre"></td>
 </tr>
 </table>
 
