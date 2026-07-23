@@ -11,7 +11,7 @@
   },
   "projects": {
     "Polaris":         { "repo": "HyperQuantMedia/HQM-Polaris",                "board": 7 },
-    "Cairn":           { "repo": "HyperQuantMedia/ClaudeCairn",                "board": 4 },
+    "Astra":           { "repo": "HyperQuantMedia/HQM-Astra",                  "board": 4 },
     "Caveman":         { "repo": "JuliusBrussee/caveman",                      "board": null },
     "DocuTale":        { "repo": "HyperQuantMedia/ClaudeDocuTale",            "board": 5 },
     "Quartermaster":   { "repo": "HyperQuantMedia/HQM-Quartermaster",         "board": 6 },

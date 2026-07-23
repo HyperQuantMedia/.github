@@ -27,7 +27,7 @@ We run as an **Adaptive Studio** — leadership is not owned but kindled, the wa
 
 ### ⚛️ Quantum Entanglement — How the Sky Began
 
-> Quantum says two particles can touch once and stay bound forever — measure one and you've already measured the other, however far they drift apart. That's the trick of this studio: everything we make is entangled, each piece's state tied to the rest. It begins with a door cut into the dark — **Warpgate** — because before you can make anything, you first have to step inside where the work actually happens; nothing glows yet, but now there's a way in. The first light kindled isn't the brightest, it's the stillest: **Polaris**, a fixed star to steer by, the bearing everything else is measured against. With a north to hold, we start setting stones — **Cairn** — a trail toward a summit no one has seen, so everyone who comes after never has to cross the dark blind. But no long journey lives on direction alone, so two moons rise to orbit the trail: **Quartermaster**, who keeps count of all we carry, and **DocuTale**, who burns off the fog so the path can be read and retold. And all of it — the gate, the star, the trail, the moons — turns out to be scaffolding for the real reason the forge was ever lit: worlds that catch fire and start to spin on their own gravity. **Veins of Nexus**, a red heart beating under stone, and **NibbleBloom**, a warm place with a table set in every realm — the first planets to wake. The sky still isn't finished. More stars wait unlit out in the **Nebula**, and honestly we don't yet know which one catches next, or how the story ends. So — *watch the sky.* **To be continued.**
+> Quantum says two particles can touch once and stay bound forever — measure one and you've already measured the other, however far they drift apart. That's the trick of this studio: everything we make is entangled, each piece's state tied to the rest. It begins with a door cut into the dark — **Warpgate** — because before you can make anything, you first have to step inside where the work actually happens; nothing glows yet, but now there's a way in. The first light kindled isn't the brightest, it's the stillest: **Polaris**, a fixed star to steer by, the bearing everything else is measured against. With a north to hold, we start charting the dark — **Astra** — spotting stars, chasing them down, fixing each onto a chart so everyone who comes after can sail it star by star and never cross the dark blind. But no long voyage lives on direction alone, so two moons rise to orbit the course: **Quartermaster**, who keeps count of all we carry, and **DocuTale**, who burns off the fog so the way can be read and retold. And all of it — the gate, the star, the chart, the moons — turns out to be scaffolding for the real reason the forge was ever lit: worlds that catch fire and start to spin on their own gravity. **Veins of Nexus**, a red heart beating under stone, and **NibbleBloom**, a warm place with a table set in every realm — the first planets to wake. The sky still isn't finished. More stars wait unlit out in the **Nebula**, and honestly we don't yet know which one catches next, or how the story ends. So — *watch the sky.* **To be continued.**
 
 ## 🛠️ What we build
 
@@ -51,7 +51,7 @@ A quick community side-tool for **Oasis island-stitching** in the game [Kingshot
 
 ## 🌌 Under the Celestial Forge
 
-🌌 *Somewhere off the charted trail, we stack **Cairns** — cooking cosmic, celestial stars from stone, signal, and patience. The constellation isn't lit yet.*
+🌌 *Somewhere off the charted trail, we stack **cairns** — cooking cosmic, celestial stars from stone, signal, and patience. The constellation isn't lit yet.*
 
 *The studio's private constellations. Most of what we forge stays dark a while — a glimpse of the light, never the map.*
 
@@ -65,8 +65,8 @@ A quick community side-tool for **Oasis island-stitching** in the game [Kingshot
 &nbsp;<img src="https://img.shields.io/badge/Type-Plugin-c084fc?style=flat-square" alt="Type"></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/HyperQuantMedia/ClaudeCairn"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Cairn/HQM-Cairn-Final_256x256.png" width="76"></a><br><sub><b>Cairn</b></sub></td>
-<td><i>Stones set toward what we can't see yet.</i><br><br>
+<td align="center"><a href="https://github.com/HyperQuantMedia/HQM-Astra"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/Astra/HQM-Astra-Final_256x256.png" width="76"></a><br><sub><b>Astra</b></sub></td>
+<td><i>A star-chart for a growing dark — carry the chart, not the cosmos.</i><br><br>
 <img src="https://img.shields.io/badge/Status-In%20Development-4ade80?style=flat-square" alt="Status">
 &nbsp;<img src="https://img.shields.io/badge/Type-System%20%2B%20Plugin-c084fc?style=flat-square" alt="Type"></td>
 </tr>

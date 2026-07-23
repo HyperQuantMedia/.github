@@ -8,7 +8,7 @@ set -euo pipefail
 
 REPOS=(
   HyperQuantMedia/HQM-Polaris
-  HyperQuantMedia/ClaudeCairn
+  HyperQuantMedia/HQM-Astra
   HyperQuantMedia/ClaudeDocuTale
   HyperQuantMedia/HQM-Quartermaster
   HyperQuantMedia/HQM-Warpgate
