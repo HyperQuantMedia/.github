@@ -71,7 +71,7 @@ A quick community side-tool for **Oasis island-stitching** in the game [Kingshot
 &nbsp;<img src="https://img.shields.io/badge/Type-System%20%2B%20Plugin-c084fc?style=flat-square" alt="Type"></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/HyperQuantMedia/ClaudeDocuTale"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/DocuTale/HQM-DocuTale-Final_256x256.png" width="76"></a><br><sub><b>DocuTale</b></sub></td>
+<td align="center"><a href="https://github.com/HyperQuantMedia/HQM-DocuTale"><img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Projects/DocuTale/HQM-DocuTale-Final_256x256.png" width="76"></a><br><sub><b>DocuTale</b></sub></td>
 <td><i>It lifts the fog — over what, we won't yet say.</i><br><br>
 <img src="https://img.shields.io/badge/Status-In%20Development-4ade80?style=flat-square" alt="Status">
 &nbsp;<img src="https://img.shields.io/badge/Type-Plugin-c084fc?style=flat-square" alt="Type"></td>
