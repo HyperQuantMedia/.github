@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Company/Github/banner-github-1280x640-Final.jpg" alt="HyperQuant Media" width="900" />
+<img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Company/GitHub/banner-github-Final-1280x640.jpg" alt="HyperQuant Media" width="900" />
 
 # HyperQuant Media LLP
 
