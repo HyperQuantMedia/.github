@@ -13,6 +13,8 @@
 [![Website](https://img.shields.io/badge/Website-hyperquantmedia.com-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://hyperquantmedia.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HyperQuant_Media-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hyperquantmedia/)
 [![Instagram](https://img.shields.io/badge/Instagram-hyperquantmedia-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hyperquantmedia)
+[![X](https://img.shields.io/badge/X-HyperQuantMedia-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/HyperQuantMedia)
+[![YouTube](https://img.shields.io/badge/YouTube-HyperQuantMedia-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@HyperQuantMedia)
 [![Email](https://img.shields.io/badge/Email-bizdev@hyperquantmedia.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bizdev@hyperquantmedia.com)
 
 </div>
