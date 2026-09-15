@@ -17,7 +17,7 @@ concurrency:
   group: orrery-rollup
   cancel-in-progress: false
 
-permissions: {}   # no GITHUB_TOKEN perms needed; ORRERY_PAT does all the work
+permissions: {}   # no GITHUB_TOKEN perms needed; HQM_OrreryRollup_NightlyCronJob does all the work
 
 jobs:
   rollup:
@@ -30,10 +30,10 @@ jobs:
           node-version: '20'
       - name: Run rollup
         env:
-          GH_TOKEN: ${{ secrets.ORRERY_PAT }}
+          GH_TOKEN: ${{ secrets.HQM_OrreryRollup_NightlyCronJob }}
         run: |
           if [ -z "$GH_TOKEN" ]; then
-            echo "::error::ORRERY_PAT secret is missing. See docs/ORRERY-AUTOMATION.md."
+            echo "::error::HQM_OrreryRollup_NightlyCronJob secret is missing. See docs/ORRERY-AUTOMATION.md."
             exit 1
           fi
           node scripts/orrery-rollup.mjs

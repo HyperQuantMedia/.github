@@ -34,7 +34,7 @@ Hosted in the **public** `.github` repo → free Actions minutes (off the 2000-m
 1. **Create a token** with: `repo` (read issues on the 9 private repos) + `project` (read/write org
    projects). Classic PAT is simplest; a fine-grained PAT or GitHub App also works (Issues: read,
    Projects: read+write, on the org + all product repos).
-2. **Store it as an _organization_ Actions secret** named **`ORRERY_PAT`**, visibility = all repos
+2. **Store it as an _organization_ Actions secret** named **`HQM_OrreryRollup_NightlyCronJob`**, visibility = all repos
    (or selected: this repo + the 8 product repos). One secret serves both the rollup and every
    notify hook.
 3. **Deploy the notify hook** to the product repos:

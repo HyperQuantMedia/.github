@@ -31,4 +31,4 @@ for repo in "${REPOS[@]}"; do
   [ -n "$sha" ] && args+=(-f sha="$sha")
   gh api "${args[@]}" --jq '.commit.html_url' && echo "  ok" || echo "  FAILED"
 done
-echo "Done. Ensure org secret ORRERY_PAT is visible to these repos."
+echo "Done. Ensure org secret HQM_OrreryRollup_NightlyCronJob is visible to these repos."

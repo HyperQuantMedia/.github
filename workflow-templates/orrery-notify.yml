@@ -2,7 +2,7 @@
 # Orrery notify — drop this into EACH product repo at .github/workflows/orrery-notify.yml
 # (deploy/scripts/deploy-orrery-notify.sh does this for all of them).
 # On issue / PR close it pings the central .github repo, which re-runs the
-# Orrery health rollup. Needs an org Actions secret ORRERY_PAT with rights to
+# Orrery health rollup. Needs an org Actions secret HQM_OrreryRollup_NightlyCronJob with rights to
 # POST repository_dispatch on HyperQuantMedia/.github.
 # NOTE: GitHub does not emit an Actions event when a Project v2 card is merely
 # dragged between columns, so pure board moves are caught by the nightly cron,
@@ -28,10 +28,10 @@ jobs:
     steps:
       - name: Dispatch orrery-sync
         env:
-          PAT: ${{ secrets.ORRERY_PAT }}
+          PAT: ${{ secrets.HQM_OrreryRollup_NightlyCronJob }}
         run: |
           if [ -z "$PAT" ]; then
-            echo "::warning::ORRERY_PAT not set; skipping Orrery sync."
+            echo "::warning::HQM_OrreryRollup_NightlyCronJob not set; skipping Orrery sync."
             exit 0
           fi
           curl -sf -X POST \
