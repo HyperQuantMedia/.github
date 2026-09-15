@@ -14,7 +14,6 @@ REPOS=(
   HyperQuantMedia/HQM-Warpgate
   HyperQuantMedia/Veins-of-Nexus
   HyperQuantMedia/NibbleBloom
-  HyperQuantMedia/Kingshot-Island-Architect
 )
 # Caveman lives at JuliusBrussee/caveman (external) — add it only if you have write there.
 

@@ -17,7 +17,6 @@
     "Quartermaster":   { "repo": "HyperQuantMedia/HQM-Quartermaster",         "board": 6 },
     "Warpgate":        { "repo": "HyperQuantMedia/HQM-Warpgate",             "board": 3 },
     "Veins-of-Nexus":  { "repo": "HyperQuantMedia/Veins-of-Nexus",            "board": 9 },
-    "NibbleBloom":     { "repo": "HyperQuantMedia/NibbleBloom",               "board": 8 },
-    "Kingshot-Island": { "repo": "HyperQuantMedia/Kingshot-Island-Architect", "board": 10 }
+    "NibbleBloom":     { "repo": "HyperQuantMedia/NibbleBloom",               "board": 8 }
   }
 }
