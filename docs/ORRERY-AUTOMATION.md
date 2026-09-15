@@ -19,6 +19,10 @@ For every Orrery item whose **Project** field maps to a repo (`scripts/orrery-co
 
 *Hybrid:* issue counts + board Status breakdown. Cross-cutting items (no repo) are left manual.
 
+Every mapped repo lives in the `HyperQuantMedia` org. External dependencies (the Caveman plugin,
+`JuliusBrussee/caveman`) are deliberately not tracked here: their issue history is upstream activity,
+not HQM delivery, and charting it next to HQM projects makes the board read wrong.
+
 ## How it runs
 
 - **Event-driven** — each product repo runs `orrery-notify.yml`; on issue/PR close it fires a
@@ -45,11 +49,6 @@ Hosted in the **public** `.github` repo → free Actions minutes (off the 2000-m
 
    The token is then approved by an org admin under *Org Settings → Third-party Access → Personal
    access tokens → Pending requests*.
-
-   Note the one thing fine-grained does not cover explicitly: `JuliusBrussee/caveman` is outside the
-   org, so no org-owned token can be scoped to it. It works because the repo is public and GitHub
-   grants every token read access to public repositories. If Caveman ever goes private, its row
-   needs a different credential.
 
    A classic PAT (`repo` + `project`) also works and needs no approval step, but `repo` means full
    write and delete on all 8 private repos for a job that only counts issues. A GitHub App is the

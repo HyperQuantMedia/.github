@@ -30,7 +30,7 @@ REPOS=(
   HyperQuantMedia/Veins-of-Nexus
   HyperQuantMedia/NibbleBloom
 )
-# Caveman lives at JuliusBrussee/caveman (external) — add it only if you have write there.
+# Caveman (JuliusBrussee/caveman) is upstream and not maintained by HQM - deliberately not deployed to.
 
 SRC="$(dirname "$0")/../workflow-templates/orrery-notify.yml"
 DEST=".github/workflows/orrery-notify.yml"
