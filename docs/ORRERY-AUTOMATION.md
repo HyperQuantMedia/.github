@@ -31,15 +31,43 @@ Hosted in the **public** `.github` repo → free Actions minutes (off the 2000-m
 
 ## One-time setup (needs an org admin)
 
-1. **Create a token** with: `repo` (read issues on the 9 private repos) + `project` (read/write org
-   projects). Classic PAT is simplest; a fine-grained PAT or GitHub App also works (Issues: read,
-   Projects: read+write, on the org + all product repos).
-2. **Store it as an _organization_ Actions secret** named **`HQM_OrreryRollup_NightlyCronJob`**, visibility = all repos
-   (or selected: this repo + the 8 product repos). One secret serves both the rollup and every
-   notify hook.
+1. **Create a fine-grained PAT** at *Settings → Developer settings → Personal access tokens →
+   Fine-grained tokens*. Set **Resource owner = `HyperQuantMedia`** first — it cannot be changed
+   afterwards, and a token owned by your personal account can reach neither the private repos nor
+   board #13. Confirming you got it right: the permission tabs read *Repositories | Organization |
+   Account*; only *Repositories | Account* means the owner is still personal.
+   - Repository access: **All repositories**
+   - Repository permissions: **Issues → Read-only** (Metadata read-only is added automatically)
+   - Organization permissions: **Projects → Read and write** (read-only fails on the
+     `updateProjectV2ItemFieldValue` mutations)
+   - Set an expiration. When it lapses the rollup fails on an empty token — the same symptom as
+     never having created it.
+
+   The token is then approved by an org admin under *Org Settings → Third-party Access → Personal
+   access tokens → Pending requests*.
+
+   Note the one thing fine-grained does not cover explicitly: `JuliusBrussee/caveman` is outside the
+   org, so no org-owned token can be scoped to it. It works because the repo is public and GitHub
+   grants every token read access to public repositories. If Caveman ever goes private, its row
+   needs a different credential.
+
+   A classic PAT (`repo` + `project`) also works and needs no approval step, but `repo` means full
+   write and delete on all 8 private repos for a job that only counts issues. A GitHub App is the
+   durable option: no user coupling, no expiry.
+2. **Store it as an _organization_ Actions secret** named **`HQM_OrreryRollup_NightlyCronJob`**,
+   visibility = all repos (or selected: this repo + the product repos). One secret serves both the
+   rollup and every notify hook. GitHub uppercases the stored name — `HQM_ORRERYROLLUP_NIGHTLYCRONJOB`
+   is the same secret, and `${{ secrets.HQM_OrreryRollup_NightlyCronJob }}` still resolves, because
+   secret lookup is case-insensitive. Underscores are mandatory: a hyphen would be parsed as
+   subtraction inside `${{ }}`.
+   ```bash
+   gh auth refresh -h github.com -s admin:org
+   gh secret set HQM_OrreryRollup_NightlyCronJob --org HyperQuantMedia --visibility all
+   ```
 3. **Deploy the notify hook** to the product repos:
    ```bash
-   bash scripts/deploy-orrery-notify.sh
+   bash scripts/deploy-orrery-notify.sh            # all repos
+   bash scripts/deploy-orrery-notify.sh Polaris    # one repo, to check the first commit passes lint
    ```
 4. **Smoke test:** Actions → *Orrery rollup* → *Run workflow*, then check board #13 fields fill in.
 

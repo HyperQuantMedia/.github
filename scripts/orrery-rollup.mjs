@@ -38,7 +38,11 @@ async function gql(query, variables = {}) {
     body: JSON.stringify({ query, variables }),
   });
   const json = await res.json();
-  if (json.errors) throw new Error(JSON.stringify(json.errors));
+  if (json.errors) {
+    const e = new Error(JSON.stringify(json.errors));
+    e.missing = json.errors.some((x) => x.type === 'NOT_FOUND');
+    throw e;
+  }
   return json.data;
 }
 
@@ -120,6 +124,7 @@ async function issueCounts(repo) {
     { o: owner, n: name },
   );
   const r = data.repository;
+  if (!r) { const e = new Error(`repository ${repo} not found`); e.missing = true; throw e; }
   return { open: r.open.totalCount, closed: r.closed.totalCount };
 }
 
@@ -179,6 +184,7 @@ async function main() {
   const P = await resolveProject();
   const items = await fetchItems(P.projectId);
   let synced = 0;
+  const failures = [];
 
   for (const item of items) {
     const conf = item.project && cfg.projects[item.project];
@@ -193,7 +199,17 @@ async function main() {
       open = ic.open;
       done = ic.closed;
     } catch (e) {
-      note += ` issues:ERR(${String(e).slice(0, 60)})`;
+      // Never write zeros over a project whose repo could not be read. A deleted or
+      // renamed repo would otherwise land on the board as "0 open / 0 done / Planned" --
+      // a dead project reported as a healthy empty one, which is how the removed
+      // Kingshot-Island-Architect sat unnoticed. Leave the anchor's last known numbers
+      // in place, annotate the run, and fail it at the end so silence is not the outcome.
+      const why = e.missing
+        ? 'repository not found -- deleted, renamed, or not visible to this token'
+        : String(e).slice(0, 200);
+      console.log(`::error::Orrery: ${item.project} -> ${conf.repo}: ${why}`);
+      failures.push(`${item.project} (${conf.repo}): ${why}`);
+      continue;
     }
 
     if (conf.board) {
@@ -242,6 +258,13 @@ async function main() {
   }
 
   console.log(`\nOrrery rollup complete: ${synced} project(s) synced @ ${today}.`);
+
+  if (failures.length) {
+    console.log(`::error::Orrery: ${failures.length} project(s) unreadable; their board fields were left untouched.`);
+    for (const f of failures) console.log(`  - ${f}`);
+    console.error(`Rollup finished with ${failures.length} unreadable project(s). Fix or remove them in orrery-config.json.`);
+    process.exitCode = 1;
+  }
 }
 
 main().catch((e) => {
