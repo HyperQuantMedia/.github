@@ -29,6 +29,7 @@ REPOS=(
   HyperQuantMedia/HQM-Warpgate
   HyperQuantMedia/Veins-of-Nexus
   HyperQuantMedia/NibbleBloom
+  HyperQuantMedia/Nova-Engine
 )
 # Caveman (JuliusBrussee/caveman) is upstream and not maintained by HQM - deliberately not deployed to.
 
